@@ -1,8 +1,29 @@
 # Change Log - @fluentui/style-utilities
 
-This log was last generated on Thu, 15 Aug 2024 07:23:35 GMT and should not be manually modified.
+This log was last generated on Wed, 02 Oct 2024 07:23:57 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## [8.11.1](https://github.com/microsoft/fluentui/tree/@fluentui/style-utilities_v8.11.1)
+
+Wed, 02 Oct 2024 07:23:57 GMT 
+[Compare changes](https://github.com/microsoft/fluentui/compare/@fluentui/style-utilities_v8.11.0..@fluentui/style-utilities_v8.11.1)
+
+### Patches
+
+- Bump @fluentui/theme to v2.6.61 ([PR #32920](https://github.com/microsoft/fluentui/pull/32920) by beachball)
+- Bump @fluentui/utilities to v8.15.17 ([PR #32920](https://github.com/microsoft/fluentui/pull/32920) by beachball)
+
+## [8.11.0](https://github.com/microsoft/fluentui/tree/@fluentui/style-utilities_v8.11.0)
+
+Mon, 30 Sep 2024 07:23:12 GMT 
+[Compare changes](https://github.com/microsoft/fluentui/compare/@fluentui/style-utilities_v8.10.21..@fluentui/style-utilities_v8.11.0)
+
+### Minor changes
+
+- Update to filetype icons - Sep 2024 ([PR #32918](https://github.com/microsoft/fluentui/pull/32918) by caperez@microsoft.com)
+- Bump @fluentui/theme to v2.6.60 ([PR #32437](https://github.com/microsoft/fluentui/pull/32437) by beachball)
+- Bump @fluentui/utilities to v8.15.16 ([PR #32437](https://github.com/microsoft/fluentui/pull/32437) by beachball)
 
 ## [8.10.21](https://github.com/microsoft/fluentui/tree/@fluentui/style-utilities_v8.10.21)
 
