@@ -38,13 +38,21 @@ function extractTokensFromFile(filePath) {
 // Function to build a JSON object with parent folders as components and their tokens
 function buildTokensJSON(dir) {
     const stylesFiles = findStylesFiles(dir);
-    const result = {};
+    const result = [];
 
     stylesFiles.forEach((file) => {
         const tokens = extractTokensFromFile(file);
         if (Object.keys(tokens).length > 0) {
             const componentName = path.basename(path.dirname(file)); // Use the parent folder name as the component name
-            result[componentName] = tokens;
+
+            // Iterate over the tokens and push formatted objects into the result array
+            Object.keys(tokens).forEach((tokenName) => {
+                result.push({
+                    componentName: componentName,
+                    tokenName: tokens[tokenName],
+                    cssProperty: tokenName // Assuming the token's value is the css property
+                });
+            });
         }
     });
 
@@ -57,11 +65,43 @@ function writeJSONToFile(jsonObject, outputFile) {
     console.log(`Tokens JSON file has been written to ${outputFile}`);
 }
 
+// Function to count the occurrences of each tokenName and collect the component names
+function countTokenUsage(inputFile, outputFile) {
+    const tokensData = JSON.parse(fs.readFileSync(inputFile, 'utf8'));
+    const tokenMap = {};
+
+    tokensData.forEach(({ tokenName, componentName }) => {
+        if (!tokenMap[tokenName]) {
+            tokenMap[tokenName] = {
+                tokenName: tokenName,
+                usageCount: 0,
+                componentNames: new Set() // Using Set to avoid duplicate component names
+            };
+        }
+        tokenMap[tokenName].usageCount++;
+        tokenMap[tokenName].componentNames.add(componentName);
+    });
+
+    // Convert Set to Array in the final result
+    const result = Object.values(tokenMap).map(token => ({
+        tokenName: token.tokenName,
+        usageCount: token.usageCount,
+        componentNames: Array.from(token.componentNames) // Convert Set to Array
+    }));
+
+    // Write the result to the specified output file
+    fs.writeFileSync(outputFile, JSON.stringify(result, null, 2), 'utf8');
+}
+
+
 // Main script execution
 const directoryToSearch = './';  // Update this with your root directory
 const outputFile = './tokens.json';
+const outputCountFile = './tokens-count.json';
 
 const tokensJSON = buildTokensJSON(directoryToSearch);
 writeJSONToFile(tokensJSON, outputFile);
+countTokenUsage(outputFile, outputCountFile);
+
 
 // README: use `node tokensMapper.js` in terminal to run

@@ -1,0 +1,1167 @@
+[
+  {
+    "tokenName": "colorNeutralForegroundDisabled",
+    "usageCount": 23,
+    "componentNames": [
+      "AccordionHeader",
+      "Button",
+      "CompoundButton",
+      "Calendar",
+      "CalendarDay",
+      "CalendarPicker",
+      "Checkbox",
+      "Combobox",
+      "Dropdown",
+      "Option",
+      "Input",
+      "MenuItem",
+      "Radio",
+      "SearchBox",
+      "Select",
+      "SpinButton",
+      "Tab",
+      "TagPickerButton",
+      "TagPickerControl",
+      "TagPickerInput",
+      "InteractionTagPrimary",
+      "InteractionTagSecondary",
+      "Textarea"
+    ]
+  },
+  {
+    "tokenName": "colorTransparentBackground",
+    "usageCount": 15,
+    "componentNames": [
+      "AccordionHeader",
+      "BreadcrumbButton",
+      "Button",
+      "Calendar",
+      "Combobox",
+      "Dropdown",
+      "DialogSurface",
+      "OverlayDrawerSurface",
+      "Input",
+      "EmptySwatch",
+      "TagPickerButton",
+      "TagPickerControl",
+      "TagPickerInput",
+      "TeachingPopoverHeader",
+      "TeachingPopoverTitle"
+    ]
+  },
+  {
+    "tokenName": "borderRadiusMedium",
+    "usageCount": 57,
+    "componentNames": [
+      "AccordionHeader",
+      "CalendarDay",
+      "CalendarDayGrid",
+      "CalendarPicker",
+      "CarouselNavButton",
+      "Combobox",
+      "Dropdown",
+      "OptionGroup",
+      "DatePicker",
+      "Image",
+      "InfoButton",
+      "Input",
+      "ListItem",
+      "MenuItem",
+      "MenuPopover",
+      "MessageBar",
+      "Attachment",
+      "Tokens",
+      "PopoverSurface",
+      "Select",
+      "SpinButton",
+      "TableCell",
+      "TableHeaderCell",
+      "TableRow",
+      "TableSelectionCell",
+      "TagPickerControl",
+      "TagPickerList",
+      "Tag",
+      "TeachingPopoverCarouselNav",
+      "TeachingPopoverCarouselNavButton",
+      "TeachingPopoverHeader",
+      "TeachingPopoverTitle",
+      "Textarea",
+      "Toast",
+      "ToastContainer",
+      "Tooltip",
+      "TreeItem"
+    ]
+  },
+  {
+    "tokenName": "fontSizeBase500",
+    "usageCount": 6,
+    "componentNames": [
+      "AccordionHeader",
+      "Combobox",
+      "Dropdown",
+      "MessageBar",
+      "TagPickerControl",
+      "TreeItemLayout"
+    ]
+  },
+  {
+    "tokenName": "lineHeightBase500",
+    "usageCount": 2,
+    "componentNames": [
+      "AccordionHeader",
+      "TreeItemLayout"
+    ]
+  },
+  {
+    "tokenName": "spacingHorizontalS",
+    "usageCount": 13,
+    "componentNames": [
+      "AccordionHeader",
+      "BreadcrumbButton",
+      "CompoundButton",
+      "DrawerFooter",
+      "DrawerHeader",
+      "DrawerHeaderTitle",
+      "Input",
+      "MessageBar",
+      "RatingDisplay",
+      "SpinButton",
+      "TableCellLayout",
+      "ColorTokens"
+    ]
+  },
+  {
+    "tokenName": "borderRadiusXLarge",
+    "usageCount": 4,
+    "componentNames": [
+      "Avatar",
+      "CarouselNav",
+      "DialogSurface",
+      "TeachingPopoverSurface"
+    ]
+  },
+  {
+    "tokenName": "fontFamilyBase",
+    "usageCount": 14,
+    "componentNames": [
+      "Avatar",
+      "Button",
+      "Combobox",
+      "Dropdown",
+      "Option",
+      "Divider",
+      "Label",
+      "Link",
+      "Select",
+      "Tab",
+      "TagPickerButton",
+      "TagPickerInput",
+      "Textarea",
+      "Tooltip"
+    ]
+  },
+  {
+    "tokenName": "fontWeightSemibold",
+    "usageCount": 14,
+    "componentNames": [
+      "Avatar",
+      "Button",
+      "CalendarDay",
+      "CalendarDayGrid",
+      "CalendarPicker",
+      "OptionGroup",
+      "Label",
+      "MenuGroupHeader",
+      "Attachment",
+      "RatingDisplay",
+      "TableCellLayout",
+      "TeachingPopoverHeader",
+      "TeachingPopoverTitle",
+      "Toast"
+    ]
+  },
+  {
+    "tokenName": "fontSizeBase600",
+    "usageCount": 1,
+    "componentNames": [
+      "Avatar"
+    ]
+  },
+  {
+    "tokenName": "shadow28",
+    "usageCount": 1,
+    "componentNames": [
+      "Avatar"
+    ]
+  },
+  {
+    "tokenName": "colorPaletteAnchorBorderActive",
+    "usageCount": 1,
+    "componentNames": [
+      "Avatar"
+    ]
+  },
+  {
+    "tokenName": "colorPaletteAnchorBackground2",
+    "usageCount": 1,
+    "componentNames": [
+      "Avatar"
+    ]
+  },
+  {
+    "tokenName": "colorTransparentStroke",
+    "usageCount": 6,
+    "componentNames": [
+      "AvatarGroup",
+      "Badge",
+      "ColorSlider",
+      "DatePicker",
+      "RatingItem",
+      "Slider"
+    ]
+  },
+  {
+    "tokenName": "borderRadiusCircular",
+    "usageCount": 18,
+    "componentNames": [
+      "AvatarGroupItem",
+      "AvatarGroupPopover",
+      "PresenceBadge",
+      "Checkbox",
+      "ColorSlider",
+      "MenuItemSwitch",
+      "components",
+      "Radio",
+      "Slider",
+      "Switch",
+      "Tab",
+      "InteractionTag",
+      "InteractionTagPrimary",
+      "InteractionTagSecondary",
+      "Tag"
+    ]
+  },
+  {
+    "tokenName": "spacingHorizontalXL",
+    "usageCount": 1,
+    "componentNames": [
+      "AvatarGroupItem"
+    ]
+  },
+  {
+    "tokenName": "colorNeutralForeground1",
+    "usageCount": 10,
+    "componentNames": [
+      "AvatarGroupItem",
+      "CarouselNavButton",
+      "DatePicker",
+      "DialogSurface",
+      "Divider",
+      "shared",
+      "MenuPopover",
+      "Attachment",
+      "FluentProvider",
+      "RatingDisplay"
+    ]
+  },
+  {
+    "tokenName": "colorNeutralForeground1Selected",
+    "usageCount": 2,
+    "componentNames": [
+      "AvatarGroupPopover",
+      "Card"
+    ]
+  },
+  {
+    "tokenName": "colorNeutralBackground1Selected",
+    "usageCount": 1,
+    "componentNames": [
+      "AvatarGroupPopover"
+    ]
+  },
+  {
+    "tokenName": "borderRadiusSmall",
+    "usageCount": 4,
+    "componentNames": [
+      "Badge",
+      "Calendar",
+      "CarouselNavImageButton",
+      "Option"
+    ]
+  },
+  {
+    "tokenName": "strokeWidthThin",
+    "usageCount": 9,
+    "componentNames": [
+      "Badge",
+      "Calendar",
+      "Checkbox",
+      "Divider",
+      "Link",
+      "MenuItem",
+      "MenuSplitGroup",
+      "Radio"
+    ]
+  },
+  {
+    "tokenName": "colorPaletteYellowBackground1",
+    "usageCount": 1,
+    "componentNames": [
+      "Badge"
+    ]
+  },
+  {
+    "tokenName": "colorPaletteYellowForeground1",
+    "usageCount": 1,
+    "componentNames": [
+      "Badge"
+    ]
+  },
+  {
+    "tokenName": "colorNeutralBackground1",
+    "usageCount": 8,
+    "componentNames": [
+      "PresenceBadge",
+      "Listbox",
+      "DatePicker",
+      "shared",
+      "MenuItem",
+      "MenuPopover",
+      "Segment",
+      "FluentProvider"
+    ]
+  },
+  {
+    "tokenName": "colorNeutralForeground3",
+    "usageCount": 5,
+    "componentNames": [
+      "PresenceBadge",
+      "OptionGroup",
+      "MenuGroupHeader",
+      "StyledText",
+      "TreeItemPersonaLayout"
+    ]
+  },
+  {
+    "tokenName": "spacingHorizontalXS",
+    "usageCount": 21,
+    "componentNames": [
+      "BreadcrumbButton",
+      "MenuButton",
+      "Checkbox",
+      "Listbox",
+      "Option",
+      "OptionGroup",
+      "Field",
+      "Label",
+      "MenuItemSwitch",
+      "Radio",
+      "SearchBox",
+      "SpinButton",
+      "Switch",
+      "TableHeaderCell",
+      "TagGroup",
+      "TeachingPopoverCarouselNav",
+      "TeachingPopoverHeader",
+      "TreeItemLayout",
+      "TreeItemPersonaLayout"
+    ]
+  },
+  {
+    "tokenName": "colorNeutralForeground2",
+    "usageCount": 9,
+    "componentNames": [
+      "BreadcrumbButton",
+      "BreadcrumbItem",
+      "CarouselAutoplayButton",
+      "CarouselButton",
+      "components",
+      "Persona",
+      "TableCellLayout",
+      "TreeItem",
+      "TreeItemLayout"
+    ]
+  },
+  {
+    "tokenName": "colorStrokeFocus2",
+    "usageCount": 3,
+    "componentNames": [
+      "Button",
+      "Link",
+      "TreeItem"
+    ]
+  },
+  {
+    "tokenName": "borderRadiusLarge",
+    "usageCount": 1,
+    "componentNames": [
+      "Button"
+    ]
+  },
+  {
+    "tokenName": "fontSizeBase400",
+    "usageCount": 5,
+    "componentNames": [
+      "Button",
+      "Option",
+      "Label",
+      "RatingDisplay",
+      "TeachingPopoverTitle"
+    ]
+  },
+  {
+    "tokenName": "lineHeightBase400",
+    "usageCount": 6,
+    "componentNames": [
+      "Button",
+      "CompoundButton",
+      "MenuButton",
+      "Label",
+      "RatingDisplay",
+      "TeachingPopoverTitle"
+    ]
+  },
+  {
+    "tokenName": "durationFaster",
+    "usageCount": 1,
+    "componentNames": [
+      "Button"
+    ]
+  },
+  {
+    "tokenName": "curveEasyEase",
+    "usageCount": 4,
+    "componentNames": [
+      "Button",
+      "MenuItemSwitch",
+      "Spinner",
+      "Switch"
+    ]
+  },
+  {
+    "tokenName": "fontSizeBase300",
+    "usageCount": 5,
+    "componentNames": [
+      "CompoundButton",
+      "Link",
+      "MenuItem",
+      "Attachment",
+      "Toast"
+    ]
+  },
+  {
+    "tokenName": "spacingHorizontalM",
+    "usageCount": 17,
+    "componentNames": [
+      "CompoundButton",
+      "CarouselNavContainer",
+      "Combobox",
+      "Input",
+      "MessageBar",
+      "MessageBarActions",
+      "MessageBarBody",
+      "SearchBox",
+      "Select",
+      "Tab",
+      "TagPickerControl"
+    ]
+  },
+  {
+    "tokenName": "fontWeightRegular",
+    "usageCount": 6,
+    "componentNames": [
+      "CompoundButton",
+      "Divider",
+      "Link",
+      "Attachment",
+      "TableHeaderCell",
+      "ToastBody"
+    ]
+  },
+  {
+    "tokenName": "colorNeutralForeground2BrandSelected",
+    "usageCount": 3,
+    "componentNames": [
+      "MenuButton",
+      "ToggleButton",
+      "InfoButton"
+    ]
+  },
+  {
+    "tokenName": "colorTransparentBackgroundSelected",
+    "usageCount": 2,
+    "componentNames": [
+      "MenuButton",
+      "InfoButton"
+    ]
+  },
+  {
+    "tokenName": "colorNeutralStrokeDisabled",
+    "usageCount": 3,
+    "componentNames": [
+      "SplitButton",
+      "Radio",
+      "InteractionTagSecondary"
+    ]
+  },
+  {
+    "tokenName": "colorTransparentBackgroundPressed",
+    "usageCount": 2,
+    "componentNames": [
+      "ToggleButton",
+      "TreeItemLayout"
+    ]
+  },
+  {
+    "tokenName": "fontSizeBase200",
+    "usageCount": 18,
+    "componentNames": [
+      "Calendar",
+      "CalendarDay",
+      "CalendarDayGrid",
+      "CalendarPicker",
+      "OptionGroup",
+      "Divider",
+      "MenuGroupHeader",
+      "Attachment",
+      "ListItem",
+      "Tokens",
+      "TableRow",
+      "TeachingPopoverHeader",
+      "ToastBody",
+      "Tooltip",
+      "ColorTokens"
+    ]
+  },
+  {
+    "tokenName": "colorBrandBackgroundInvertedPressed",
+    "usageCount": 2,
+    "componentNames": [
+      "CalendarDay",
+      "CalendarPicker"
+    ]
+  },
+  {
+    "tokenName": "colorNeutralForegroundOnBrand",
+    "usageCount": 6,
+    "componentNames": [
+      "CalendarDayGrid",
+      "PopoverSurface",
+      "TeachingPopoverCarouselFooterButton",
+      "TeachingPopoverFooter",
+      "TeachingPopoverHeader",
+      "TeachingPopoverTitle"
+    ]
+  },
+  {
+    "tokenName": "colorBrandForeground2",
+    "usageCount": 1,
+    "componentNames": [
+      "CalendarDayGrid"
+    ]
+  },
+  {
+    "tokenName": "strokeWidthThick",
+    "usageCount": 8,
+    "componentNames": [
+      "CalendarDayGrid",
+      "Card",
+      "Carousel",
+      "DialogContent",
+      "Tab",
+      "Textarea",
+      "TreeItem"
+    ]
+  },
+  {
+    "tokenName": "colorSubtleBackgroundSelected",
+    "usageCount": 2,
+    "componentNames": [
+      "Card",
+      "TableRow"
+    ]
+  },
+  {
+    "tokenName": "shadow8",
+    "usageCount": 2,
+    "componentNames": [
+      "Card",
+      "Toast"
+    ]
+  },
+  {
+    "tokenName": "colorNeutralBackgroundAlpha",
+    "usageCount": 3,
+    "componentNames": [
+      "CarouselAutoplayButton",
+      "CarouselButton",
+      "CarouselNav"
+    ]
+  },
+  {
+    "tokenName": "spacingHorizontalL",
+    "usageCount": 1,
+    "componentNames": [
+      "CarouselNavButton"
+    ]
+  },
+  {
+    "tokenName": "spacingVerticalS",
+    "usageCount": 9,
+    "componentNames": [
+      "CarouselNavButton",
+      "Checkbox",
+      "MessageBar",
+      "MessageBarActions",
+      "Radio",
+      "Switch",
+      "TeachingPopoverTitle",
+      "ColorTokens"
+    ]
+  },
+  {
+    "tokenName": "colorBrandBackgroundPressed",
+    "usageCount": 2,
+    "componentNames": [
+      "CarouselNavButton",
+      "TeachingPopoverCarouselFooterButton"
+    ]
+  },
+  {
+    "tokenName": "spacingVerticalM",
+    "usageCount": 3,
+    "componentNames": [
+      "CarouselNavContainer",
+      "MessageBarActions"
+    ]
+  },
+  {
+    "tokenName": "spacingVerticalL",
+    "usageCount": 3,
+    "componentNames": [
+      "CarouselNavContainer",
+      "SplitNavItem",
+      "components"
+    ]
+  },
+  {
+    "tokenName": "spacingHorizontalSNudge",
+    "usageCount": 11,
+    "componentNames": [
+      "Combobox",
+      "Dropdown",
+      "Input",
+      "Tab",
+      "TagPickerButton",
+      "TagPickerControl",
+      "TagPickerGroup",
+      "InteractionTagPrimary"
+    ]
+  },
+  {
+    "tokenName": "durationNormal",
+    "usageCount": 10,
+    "componentNames": [
+      "Combobox",
+      "Dropdown",
+      "Input",
+      "MenuItemSwitch",
+      "MessageBarGroup",
+      "Select",
+      "SpinButton",
+      "Switch",
+      "TagPickerControl",
+      "Textarea"
+    ]
+  },
+  {
+    "tokenName": "curveDecelerateMid",
+    "usageCount": 7,
+    "componentNames": [
+      "Combobox",
+      "Dropdown",
+      "Input",
+      "Select",
+      "SpinButton",
+      "TagPickerControl",
+      "Textarea"
+    ]
+  },
+  {
+    "tokenName": "colorPaletteRedBorder2",
+    "usageCount": 5,
+    "componentNames": [
+      "Combobox",
+      "Dropdown",
+      "Select",
+      "TagPickerButton",
+      "TagPickerControl"
+    ]
+  },
+  {
+    "tokenName": "spacingHorizontalMNudge",
+    "usageCount": 2,
+    "componentNames": [
+      "Dropdown",
+      "SearchBox"
+    ]
+  },
+  {
+    "tokenName": "spacingHorizontalXXS",
+    "usageCount": 9,
+    "componentNames": [
+      "Listbox",
+      "Option",
+      "OptionGroup",
+      "TagPickerControl",
+      "Tag",
+      "TreeItemLayout"
+    ]
+  },
+  {
+    "tokenName": "lineHeightBase300",
+    "usageCount": 3,
+    "componentNames": [
+      "Option",
+      "MenuItem",
+      "Tab"
+    ]
+  },
+  {
+    "tokenName": "colorCompoundBrandBackground",
+    "usageCount": 1,
+    "componentNames": [
+      "Option"
+    ]
+  },
+  {
+    "tokenName": "lineHeightBase200",
+    "usageCount": 4,
+    "componentNames": [
+      "OptionGroup",
+      "Divider",
+      "TeachingPopoverHeader",
+      "Tooltip"
+    ]
+  },
+  {
+    "tokenName": "shadow16",
+    "usageCount": 1,
+    "componentNames": [
+      "DatePicker"
+    ]
+  },
+  {
+    "tokenName": "spacingVerticalXS",
+    "usageCount": 8,
+    "componentNames": [
+      "Field",
+      "Radio",
+      "Switch",
+      "TeachingPopoverHeader",
+      "ColorTokens"
+    ]
+  },
+  {
+    "tokenName": "spacingVerticalXXS",
+    "usageCount": 7,
+    "componentNames": [
+      "Field",
+      "NavDrawerBody",
+      "NavDrawerFooter",
+      "TableHeaderCell",
+      "FlatTree",
+      "Tree"
+    ]
+  },
+  {
+    "tokenName": "colorPaletteGreenForeground1",
+    "usageCount": 1,
+    "componentNames": [
+      "Field"
+    ]
+  },
+  {
+    "tokenName": "shadow4",
+    "usageCount": 1,
+    "componentNames": [
+      "Image"
+    ]
+  },
+  {
+    "tokenName": "colorNeutralStrokeAccessiblePressed",
+    "usageCount": 3,
+    "componentNames": [
+      "Input",
+      "MenuItemSwitch",
+      "SpinButton"
+    ]
+  },
+  {
+    "tokenName": "shadow2",
+    "usageCount": 2,
+    "componentNames": [
+      "Input",
+      "Textarea"
+    ]
+  },
+  {
+    "tokenName": "colorPaletteRedForeground3",
+    "usageCount": 1,
+    "componentNames": [
+      "Label"
+    ]
+  },
+  {
+    "tokenName": "colorBrandForegroundInvertedPressed",
+    "usageCount": 1,
+    "componentNames": [
+      "Link"
+    ]
+  },
+  {
+    "tokenName": "spacingVerticalSNudge",
+    "usageCount": 4,
+    "componentNames": [
+      "MenuItem"
+    ]
+  },
+  {
+    "tokenName": "colorNeutralForegroundInverted",
+    "usageCount": 3,
+    "componentNames": [
+      "MenuItemSwitch",
+      "ColorSwatch",
+      "Switch"
+    ]
+  },
+  {
+    "tokenName": "colorCompoundBrandBackgroundPressed",
+    "usageCount": 1,
+    "componentNames": [
+      "MenuItemSwitch"
+    ]
+  },
+  {
+    "tokenName": "colorNeutralStroke1",
+    "usageCount": 3,
+    "componentNames": [
+      "MenuSplitGroup",
+      "Tokens",
+      "TableResizeHandle"
+    ]
+  },
+  {
+    "tokenName": "colorStatusSuccessBackground1",
+    "usageCount": 1,
+    "componentNames": [
+      "MessageBar"
+    ]
+  },
+  {
+    "tokenName": "colorStatusSuccessForeground1",
+    "usageCount": 1,
+    "componentNames": [
+      "MessageBar"
+    ]
+  },
+  {
+    "tokenName": "spacingVerticalMNudge",
+    "usageCount": 5,
+    "componentNames": [
+      "MessageBar",
+      "MessageBarActions",
+      "Tab"
+    ]
+  },
+  {
+    "tokenName": "colorPaletteLightGreenBackground3",
+    "usageCount": 1,
+    "componentNames": [
+      "Attachment"
+    ]
+  },
+  {
+    "tokenName": "colorNeutralBackground1Hover",
+    "usageCount": 1,
+    "componentNames": [
+      "ListItem"
+    ]
+  },
+  {
+    "tokenName": "fontSizeHero700",
+    "usageCount": 1,
+    "componentNames": [
+      "StyledText"
+    ]
+  },
+  {
+    "tokenName": "lineHeightHero700",
+    "usageCount": 1,
+    "componentNames": [
+      "StyledText"
+    ]
+  },
+  {
+    "tokenName": "colorNeutralBackground3",
+    "usageCount": 2,
+    "componentNames": [
+      "Tokens",
+      "Select"
+    ]
+  },
+  {
+    "tokenName": "fontFamilyMonospace",
+    "usageCount": 1,
+    "componentNames": [
+      "Tokens"
+    ]
+  },
+  {
+    "tokenName": "colorCompoundBrandForeground1",
+    "usageCount": 2,
+    "componentNames": [
+      "components"
+    ]
+  },
+  {
+    "tokenName": "colorNeutralBackground4Hover",
+    "usageCount": 1,
+    "componentNames": [
+      "components"
+    ]
+  },
+  {
+    "tokenName": "colorNeutralBackground4Pressed",
+    "usageCount": 1,
+    "componentNames": [
+      "components"
+    ]
+  },
+  {
+    "tokenName": "durationFast",
+    "usageCount": 1,
+    "componentNames": [
+      "components"
+    ]
+  },
+  {
+    "tokenName": "curveAccelerateMid",
+    "usageCount": 1,
+    "componentNames": [
+      "components"
+    ]
+  },
+  {
+    "tokenName": "colorBrandBackground",
+    "usageCount": 2,
+    "componentNames": [
+      "PopoverSurface",
+      "TeachingPopoverCarouselNavButton"
+    ]
+  },
+  {
+    "tokenName": "colorPaletteGreenBackground3",
+    "usageCount": 1,
+    "componentNames": [
+      "ProgressBar"
+    ]
+  },
+  {
+    "tokenName": "borderRadiusNone",
+    "usageCount": 13,
+    "componentNames": [
+      "ProgressBar",
+      "SpinButton",
+      "ColorSwatch",
+      "EmptySwatch",
+      "ImageSwatch",
+      "InteractionTagPrimary",
+      "InteractionTagSecondary",
+      "TeachingPopoverHeader",
+      "TeachingPopoverTitle"
+    ]
+  },
+  {
+    "tokenName": "colorPaletteMarigoldBackground2",
+    "usageCount": 1,
+    "componentNames": [
+      "RatingItem"
+    ]
+  },
+  {
+    "tokenName": "colorNeutralStencil1Alpha",
+    "usageCount": 1,
+    "componentNames": [
+      "SkeletonItem"
+    ]
+  },
+  {
+    "tokenName": "colorNeutralBackground1Pressed",
+    "usageCount": 1,
+    "componentNames": [
+      "SpinButton"
+    ]
+  },
+  {
+    "tokenName": "colorNeutralStrokeAlpha2",
+    "usageCount": 1,
+    "componentNames": [
+      "Spinner"
+    ]
+  },
+  {
+    "tokenName": "colorNeutralForegroundStaticInverted",
+    "usageCount": 2,
+    "componentNames": [
+      "Spinner",
+      "Tooltip"
+    ]
+  },
+  {
+    "tokenName": "colorTransparentStrokeDisabled",
+    "usageCount": 1,
+    "componentNames": [
+      "Switch"
+    ]
+  },
+  {
+    "tokenName": "colorNeutralBackgroundDisabled",
+    "usageCount": 4,
+    "componentNames": [
+      "Switch",
+      "InteractionTagPrimary",
+      "InteractionTagSecondary",
+      "Tag"
+    ]
+  },
+  {
+    "tokenName": "colorSubtleBackground",
+    "usageCount": 2,
+    "componentNames": [
+      "Table",
+      "TreeItem"
+    ]
+  },
+  {
+    "tokenName": "colorNeutralForeground1Pressed",
+    "usageCount": 2,
+    "componentNames": [
+      "TableHeaderCell",
+      "Tab"
+    ]
+  },
+  {
+    "tokenName": "colorSubtleBackgroundPressed",
+    "usageCount": 1,
+    "componentNames": [
+      "TableHeaderCell"
+    ]
+  },
+  {
+    "tokenName": "colorNeutralForeground1Hover",
+    "usageCount": 1,
+    "componentNames": [
+      "TableRow"
+    ]
+  },
+  {
+    "tokenName": "strokeWidthThicker",
+    "usageCount": 2,
+    "componentNames": [
+      "Tab"
+    ]
+  },
+  {
+    "tokenName": "colorCompoundBrandForeground1Pressed",
+    "usageCount": 2,
+    "componentNames": [
+      "Tag",
+      "TeachingPopoverFooter"
+    ]
+  },
+  {
+    "tokenName": "spacingHorizontalNone",
+    "usageCount": 5,
+    "componentNames": [
+      "TeachingPopoverHeader",
+      "TeachingPopoverTitle",
+      "TreeItem"
+    ]
+  },
+  {
+    "tokenName": "fontFamilyNumeric",
+    "usageCount": 1,
+    "componentNames": [
+      "Text"
+    ]
+  },
+  {
+    "tokenName": "fontSizeHero1000",
+    "usageCount": 1,
+    "componentNames": [
+      "Text"
+    ]
+  },
+  {
+    "tokenName": "lineHeightHero1000",
+    "usageCount": 1,
+    "componentNames": [
+      "Text"
+    ]
+  },
+  {
+    "tokenName": "fontWeightBold",
+    "usageCount": 1,
+    "componentNames": [
+      "Text"
+    ]
+  },
+  {
+    "tokenName": "colorNeutralBackgroundInverted",
+    "usageCount": 2,
+    "componentNames": [
+      "Textarea",
+      "Toast"
+    ]
+  },
+  {
+    "tokenName": "colorCompoundBrandStroke",
+    "usageCount": 1,
+    "componentNames": [
+      "Textarea"
+    ]
+  },
+  {
+    "tokenName": "colorNeutralForegroundInverted2",
+    "usageCount": 3,
+    "componentNames": [
+      "Toast",
+      "ToastBody",
+      "ToastTitle"
+    ]
+  },
+  {
+    "tokenName": "colorBrandForeground1",
+    "usageCount": 3,
+    "componentNames": [
+      "ToolbarRadioButton",
+      "ToolbarToggleButton",
+      "ColorTokens"
+    ]
+  },
+  {
+    "tokenName": "colorNeutralBackgroundStatic",
+    "usageCount": 1,
+    "componentNames": [
+      "Tooltip"
+    ]
+  },
+  {
+    "tokenName": "colorSubtleBackgroundHover",
+    "usageCount": 1,
+    "componentNames": [
+      "TreeItemPersonaLayout"
+    ]
+  }
+]
